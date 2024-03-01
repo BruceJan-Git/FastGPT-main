@@ -40,4 +40,6 @@ docSite/.vercel
 
 
 .idea/
-fastgpt/
+fastgpt/mongo
+fastgpt/pg
+fastgpt/mongodb.key
